@@ -1,5 +1,5 @@
 # TMUX
-Simple tmux configuration
+Simple tmux configuration (Tmux 3.1)
 
 ## INSTALL
 
